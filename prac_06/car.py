@@ -1,6 +1,3 @@
-"""
-CP1404 Practical
-"""
 
 class Car:
     """Represent a Car object."""
