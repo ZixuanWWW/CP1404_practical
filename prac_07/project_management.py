@@ -6,7 +6,6 @@ def main():
     MENU = "- (L)oad projects\n- (S)ave projects\n- (D)isplay projects\n- (F)ilter projects by date" \
            "\n- (A)dd new project\n- (U)pdate project\n- (Q)uit"
 
-    # Load projects from the data file when the program starts
     filename = 'projects.txt'
     projects = load_projects(filename)
 
